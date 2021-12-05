@@ -7,7 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch02-jpa-start1" />
+        <module name="chap2-jpa" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
